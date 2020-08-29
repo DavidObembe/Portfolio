@@ -5,7 +5,7 @@ This is a leaflet Map that displays all the earthquakes that have occured in the
 
 The earthquake data is constantly being updated from an earthquake API that records the most recent earthquakes worldwide.
 
-##URL
+## URL
 https://storage.googleapis.com/earthquake_vis_website/index.html
 
 
