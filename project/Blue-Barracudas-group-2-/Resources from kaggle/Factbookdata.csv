@@ -1,0 +1,263 @@
+Country,literacy,schoolyears,internetpercent,electricpercent,governmenttype,pppPc,grosssavings,unemployment,belowpoverty,cleanwateraccess,sanitationaccess,obesityrate,underweightchildren,netmigrationrate,sexratioM2F,lifeexpentancy,fertilityrate,dependencyratio,median_age,latitude,longitude,NSHemi,EWHemi,coastline,borders,coastpercent,forestpercent,elevations
+world,86.2,12,43,83,NaN,17500,27.9,7.7,NaN,91.1,67.7,NaN,NaN,NaN,1.01,69.8,2.42,52.5,30.6,NaN,NaN,NaN,NaN,356000,NaN,NaN,NaN,840
+afghanistan,38.2,10,10.6,84.1,presidential Islamic republic,2000,22.7,23.9,54.5,55.3,31.9,5.5,25,-0.6,1.03,52.1,5.02,88.8,19,33,65,N,E,0,5987,0.0,2.07,1884
+akrotiri,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,32,N,E,56.3,48,0.5397890699904122,NaN,NaN
+albania,97.6,15,66.4,100,parliamentary republic,12500,15.9,13.8,14.3,83.6,93.2,21.7,1.5,-3.3,0.98,78.6,1.52,44,33.4,41,20,N,E,362,691,0.34377967711301044,28.12,708
+algeria,80.2,14,42.9,99.4,presidential republic,15200,37.8,11.7,23,83.6,87.6,27.4,3,-0.9,1.03,77.2,2.66,52.7,28.3,28,3,N,E,998,6734,0.1290739782721159,0.8,800
+american_samoa,NaN,NaN,31.3,59,presidential democracy; a self-governing territory of the US,11200,NaN,29.8,NaN,100,62.5,NaN,NaN,-26.6,1,73.9,2.57,NaN,26.1,14,170,S,W,116,0,1.0,78.1,NaN
+andorra,100,NaN,97.9,100,"parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain",49900,NaN,3.7,NaN,100,100,25.6,NaN,0,1.06,82.9,1.41,NaN,44.9,42,1,N,E,0,118,0.0,34,1996
+angola,71.1,10,13,40.5,presidential republic,6800,28.6,6.6,36.6,49,51.6,8.2,19,0.1,0.95,60.6,6.09,97.6,15.9,12,18,S,E,1600,5369,0.22958817620892524,46.3,1112
+anguilla,NaN,NaN,81.6,NaN,parliamentary democracy (House of Assembly); self-governing overseas territory of the UK,12200,NaN,8,23,94.6,97.9,NaN,NaN,11.5,0.9,81.6,1.74,NaN,35.1,18,63,N,W,61,0,1.0,61.1,NaN
+antarctica,NaN,NaN,100,NaN,"Antarctic Treaty Summary - the Antarctic region is governed by a system known as the Antarctic Treaty system; the system includes: 1. the Antarctic Treaty, signed on 1 December 1959 and entered into force on 23 June 1961, which establishes the legal framework for the management of Antarctica, 2. Measures, Decisions, and Resolutions adopted at Antarctic Treaty Consultative Meetings, 3. The Convention for the Conservation of Antarctic Seals (1972), 4. The Convention for the Conservation of Antarctic Marine Living Resources (1980), and 5. The Protocol on Environmental Protection to the Antarctic Treaty (1991); the Antarctic Treaty Consultative Meetings operate by consensus (not by vote) of all consultative parties at annual Treaty meetings; by January 2016, there were 53 treaty member nations: 29 consultative and 24 non-consultative; consultative (decision-making) members include the seven nations that claim portions of Antarctica as national territory (some claims overlap) and 22 non-claimant nations; the US and Russia have reserved the right to make claims; the US does not recognize the claims of others; Antarctica is administered through meetings of the consultative member nations; measures adopted at these meetings are carried out by these member nations (with respect to their own nationals and operations) in accordance with their own national laws; the years in parentheses indicate when a consultative member-nation acceded to the Treaty and when it was accepted as a consultative member, while no date indicates the country was an original 1959 treaty signatory; claimant nations are - Argentina, Australia, Chile, France, NZ, Norway, and the UK; nonclaimant consultative nations are - Belgium, Brazil (1975/1983), Bulgaria (1978/1998), China (1983/1985), Czech Republic (1962/2014), Ecuador (1987/1990), Finland (1984/1989), Germany (1979/1981), India (1983/1983), Italy (1981/1987), Japan, South Korea (1986/1989), Netherlands (1967/1990), Peru (1981/1989), Poland (1961/1977), Russia, South Africa, Spain (1982/1988), Sweden (1984/1988), Ukraine (1992/2004), Uruguay (1980/1985), and the US; non-consultative members, with year of accession in parentheses, are - Austria (1987), Belarus (2006), Canada (1988), Colombia (1989), Cuba (1984), Denmark (1965), Estonia (2001), Greece (1987), Guatemala (1991), Hungary (1984), Iceland (2015), Kazakhstan (2015), North Korea (1987), Malaysia (2011), Monaco (2008), Mongolia (2015), Pakistan (2012), Papua New Guinea (1981), Portugal (2010), Romania (1971), Slovakia (1962/1993), Switzerland (1990), Turkey (1996), and Venezuela (1999); note - Czechoslovakia acceded to the Treaty in 1962 and separated into the Czech Republic and Slovakia in 1993; Article 1 - area to be used for peaceful purposes only; military activity, such as weapons testing, is prohibited, but military personnel and equipment may be used for scientific research or any other peaceful purpose; Article 2 - freedom of scientific investigation and cooperation shall continue; Article 3 - free exchange of information and personnel, cooperation with the UN and other international agencies; Article 4 - does not recognize, dispute, or establish territorial claims and no new claims shall be asserted while the treaty is in force; Article 5 - prohibits nuclear explosions or disposal of radioactive wastes;Article 6 - includes under the treaty all land and ice shelves south of 60 degrees 00 minutes south and reserves high seas rights; Article 7 - treaty-state observers have free access, including aerial observation, to any area and may inspect all stations, installations, and equipment; advance notice of all expeditions and of the introduction of military personnel must be given; Article 8 - allows for jurisdiction over observers and scientists by their own states; Article 9 - frequent consultative meetings take place among member nations; Article 10 - treaty states will discourage activities by any country in Antarctica that are contrary to the treaty; Article 11 - disputes to be settled peacefully by the parties concerned or, ultimately, by the ICJ; Articles 12, 13, 14 - deal with upholding, interpreting, and amending the treaty among involved nations; other agreements - some 200 measures adopted at treaty consultative meetings and approved by governments; the Protocol on Environmental Protection to the Antarctic Treaty was signed 4 October 1991 and entered into force 14 January 1998; this agreement provides for the protection of the Antarctic environment and includes five annexes that have entered into force: 1) environmental impact assessment, 2) conservation of Antarctic fauna and flora, 3) waste disposal and waste management, 4) prevention of marine pollution, 5) area protection and management; a sixth annex addressing liability arising from environmental emergencies has yet to enter into force; the Protocol prohibits all activities relating to mineral resources except scientific research; a permanent Antarctic Treaty Secretariat was established in 2004 in Buenos Aires, Argentina",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,90,0,S,E,17968,NaN,NaN,NaN,2300
+antigua_and_barbuda,99,13,65.2,97.4,parliamentary democracy under a constitutional monarchy; a Commonwealth realm,26400,17.3,11,NaN,97.9,91.4,18.9,NaN,2.1,0.9,76.9,1.99,45.2,32.2,17,61,N,W,153,0,1.0,22.3,NaN
+arctic_ocean,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,90,0,N,E,45389,NaN,NaN,NaN,NaN
+argentina,99.1,18,70.2,100,presidential republic,20900,17.6,8.4,25.7,99.1,96.4,28.3,NaN,-0.1,0.98,77.5,2.25,56.5,31.9,34,64,S,W,4989,11968,0.29421477855752787,10.7,595
+armenia,99.7,13,62,100,parliamentary democracy; note - constitutional changes adopted in December 2015 transformed the government to a parliamentary system,9500,17.8,18.9,32,100,89.5,20.2,2.6,-5.6,0.94,75.1,1.64,44.4,35.6,40,45,N,E,0,1570,0.0,9.1,1792
+aruba,97.5,14,93.5,95.6,parliamentary democracy (Legislature); part of the Kingdom of the Netherlands,37500,17,7.7,NaN,98.1,97.7,NaN,NaN,8.6,0.9,77.1,1.83,44.6,39.5,12,69,N,W,68.5,0,1.0,2.3,NaN
+ashmore_and_cartier_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,123,S,E,74.1,0,1.0,NaN,NaN
+atlantic_ocean,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,25,N,W,111866,NaN,NaN,NaN,NaN
+australia,NaN,23,88.2,100,federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm,50400,21,5.6,NaN,100,100,29,NaN,5.4,1.01,82.4,1.77,51.1,38.8,27,133,S,E,25760,0,1.0,16.2,330
+austria,NaN,16,84.3,100,federal parliamentary republic,50000,27,5.5,3,100,100,20.1,NaN,4.4,0.96,81.7,1.48,49.2,44.2,47,13,N,E,0,2524,0.0,47.2,910
+azerbaijan,99.8,13,78.2,100,presidential republic,17500,24.6,5,4.9,87,89.3,19.9,4.9,0,0.98,73,1.89,40.2,31.7,40,47,N,E,0,2468,0.0,11.3,384
+bahamas_the,NaN,NaN,80,100,parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm,32400,11.4,10.1,9.3,98.4,92,31.6,NaN,0,0.96,72.9,1.94,40.8,32.3,24,76,N,W,3542,0,1.0,51.4,NaN
+bahrain,95.7,15,98,100,constitutional monarchy,49000,19.8,3.6,NaN,100,99.2,29.8,NaN,11.6,1.54,79.1,1.73,30.2,32.5,26,50,N,E,161,0,1.0,0.7,NaN
+bangladesh,72.9,11,18.2,75.9,parliamentary republic,4200,30.2,4.4,24.3,86.9,60.6,3.6,32.8,-3,0.97,73.7,2.15,52.6,27.1,24,90,N,E,580,4413,0.11616262767875025,11.1,85
+barbados,99.6,15,79.5,100,parliamentary democracy under a constitutional monarchy; a Commonwealth realm,18600,7.2,10.1,NaN,99.7,96.2,23.1,3.5,-0.3,0.94,75.7,1.68,50.4,38.9,13,59,N,W,97,0,1.0,19.4,NaN
+belarus,99.7,15,71.1,100,"presidential republic in name, although in fact a dictatorship",18900,24.5,0.8,5.7,99.7,94.3,24.5,NaN,0.7,0.87,73.2,1.49,43.8,40.3,53,28,N,E,0,3642,0.0,42.7,160
+belgium,NaN,20,86.5,100,federal parliamentary democracy under a constitutional monarchy,46600,24.5,7.1,15.1,100,99.5,22.1,NaN,5.2,0.97,81.2,1.78,54.2,41.5,50,4,N,E,66.5,1297,0.04877154382104877,22.4,181
+belize,NaN,13,44.6,92.2,parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm,8300,11.3,9,41,99.5,90.5,24.1,4.6,-0.6,1,74.7,2.8,56.8,23.7,17,88,N,W,386,542,0.41594827586206895,60.6,173
+benin,38.4,13,12,41.4,presidential republic,2300,17.3,1,36.2,77.9,19.7,9.6,16.8,0,1.01,62.7,4.67,86.1,18.4,9,2,N,E,121,2123,0.05392156862745098,40,273
+bermuda,NaN,12,98,100,parliamentary democracy (Parliament); self-governing overseas territory of the UK,99400,NaN,7,11,NaN,NaN,NaN,NaN,1.7,0.94,81.5,1.92,NaN,43.5,32,64,N,W,103,0,1.0,20,NaN
+bhutan,64.9,12,41.8,100,constitutional monarchy,9000,40.4,3.2,12,100,50.4,6.4,12.7,0,1.09,71.1,1.87,47.3,28.1,27,90,N,E,0,1136,0.0,85.5,2220
+bolivia,92.5,NaN,39.7,93,presidential republic,7600,15.7,4,38.6,90,50.3,20.2,3.4,-0.4,0.98,69.8,2.58,63.7,24.6,17,65,S,W,0,7252,0.0,52.5,1192
+bosnia_and_herzegovina,98.5,14,69.3,100,parliamentary republic,12800,11,20.5,16.9,99.9,94.8,17.9,1.6,-0.4,0.95,77.1,1.31,43.3,42.5,44,18,N,E,20,1543,0.012795905310300703,42.8,500
+botswana,88.5,13,39.4,60.7,parliamentary republic,17000,40.3,20,19.3,96.2,63.4,18.9,NaN,3,0.93,63.8,2.53,55.1,24.9,22,24,S,E,0,4347.15,0.0,19.8,1013
+bouvet_island,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,54,3,S,E,29.6,0,1.0,0,NaN
+brazil,92,15,59.7,100,federal presidential republic,15600,15,12.8,4.2,98.1,82.8,22.1,NaN,-0.1,0.97,74.3,1.75,43.8,32.4,10,55,S,W,7491,16145,0.3169317989507531,61.9,320
+british_indian_ocean_territory,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,698,0,1.0,0,NaN
+british_virgin_islands,NaN,14,43.6,NaN,parliamentary democracy (House of Assembly); self-governing overseas territory of the UK,34200,NaN,2.9,NaN,98,97.5,NaN,NaN,16.1,0.91,78.9,1.3,NaN,36.7,18,64,N,W,80,0,1.0,24.3,NaN
+brunei,96,14,71.2,100,absolute monarchy or sultanate,78900,47.5,6.9,NaN,NaN,NaN,14.1,9.6,2.3,0.97,77.5,1.77,38.4,30.5,4,114,N,E,161,266,0.3770491803278688,71.8,478
+bulgaria,98.4,15,59.8,100,parliamentary republic,21800,25.4,6.2,23.4,99.4,86,25,NaN,-0.3,0.95,74.8,1.47,51.7,43,43,25,N,E,354,1806,0.1638888888888889,36.7,472
+burkina_faso,36,9,14,19.2,presidential republic,1900,9.3,77,40.1,82.3,19.7,5.6,16.2,-0.7,0.95,60.77,4.77,92.2,17.4,13,2,N,W,0,3611,0.0,19.3,297
+burma,75.6,10,25.1,57,parliamentary republic,6300,17.7,4,25.6,80.6,77.4,5.8,18.5,-1.5,0.97,68.6,2.13,49.7,28.5,22,98,N,E,1930,6522,0.2283483199242783,48.2,702
+burundi,85.6,11,5.2,7.6,presidential republic,700,-5.3,NaN,64.6,75.9,48,5.4,29.3,0,0.99,61.4,5.93,89.6,17.1,3,30,S,E,0,1140,0.0,6.6,1504
+cabo_verde,86.8,12,48.2,92.6,parliamentary republic,7000,32.4,9,30,91.7,72.2,11.8,NaN,-0.6,0.94,72.7,2.21,55.4,25.8,16,24,N,W,965,0,1.0,21,NaN
+cambodia,80.5,11,25.6,49.8,parliamentary constitutional monarchy,4000,13.7,0.3,16.5,75.5,42.4,3.9,24.1,-0.3,0.95,65.2,2.47,55.6,25.7,13,105,N,E,443,2530,0.14900773629330644,56.5,126
+cameroon,75,13,25,60.1,presidential republic,3700,25.5,4.3,30,75.6,45.8,11.4,14.8,-0.1,1.01,59.4,4.58,85.9,18.6,6,12,N,E,402,5018,0.07416974169741697,41.7,667
+canada,NaN,16,89.8,100,federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution,48400,20.8,6.3,9.4,99.8,99.8,29.4,NaN,5.7,0.98,82,1.6,47.3,42.4,60,95,N,W,202080,8893,0.9578476866708062,34.1,487
+cayman_islands,98.9,NaN,79,100,parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK,43800,NaN,4,NaN,97.4,95.6,NaN,NaN,13.6,0.95,81.4,1.84,NaN,40.2,19,80,N,W,160,0,1.0,52.9,NaN
+central_african_republic,36.8,7,4.6,14,presidential republic,700,5.4,6.9,62,68.5,21.8,7.5,24.6,0,0.99,53.3,4.25,90,19.8,7,21,N,E,0,5920,0.0,36.2,635
+chad,22.3,8,5,8.8,presidential republic,2300,15.5,NaN,46.7,50.8,12.1,6.1,29.4,-0.1,0.98,57.5,5.9,100.2,15.8,15,19,N,E,0,6406,0.0,9.1,543
+chile,96.9,16,66,100,presidential republic,24600,20.5,6.7,14.4,99,99.1,28,0.5,0.3,0.97,79.1,1.79,45.5,34.8,30,71,S,W,6435,7801,0.4520230401798258,21.9,1871
+china,96.4,14,53.2,100,communist party-led state,16700,45.8,3.9,3.3,95.5,76.5,6.2,2.4,-0.4,1.06,75.8,1.6,37.7,37.7,35,105,N,E,14500,22457,0.39234786373352815,22.3,1840
+christmas_island,NaN,NaN,35.8,NaN,non-self-governing overseas territory of Australia,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,105,S,E,138.9,0,1.0,NaN,NaN
+clipperton_island,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,109,N,W,11.1,0,1.0,0,NaN
+cocos_keeling_islands,NaN,NaN,NaN,NaN,non-self-governing overseas territory of Australia,NaN,NaN,0.1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,96,S,E,26,0,1.0,0,NaN
+colombia,94.7,15,58.1,99,presidential republic,14400,18.9,9.3,28,91.4,81.1,22.3,3.4,-0.6,0.98,76.2,1.98,45.6,30.4,4,72,N,W,3208,6672,0.32469635627530363,54.4,593
+comoros,77.8,11,7.9,77.8,federal presidential republic,1600,17.3,6.5,44.8,90.1,35.8,7.8,16.9,-2.4,0.94,64.9,3.21,75.5,20.2,12,44,S,E,340,0,1.0,1.4,NaN
+congo_democratic_republic_of_the,77,10,3.8,17.1,semi-presidential republic,800,11.5,NaN,63,52.4,28.7,6.7,23.4,-0.1,1,58.1,4.54,97.5,18.8,0,25,N,E,37,10481,0.003517779045445902,67.9,726
+congo_republic_of_the,79.3,11,7.6,56.6,presidential republic,6800,19.5,36,46.5,76.5,15,9.6,12.3,-2.8,1.01,60.3,4.26,84.5,19.6,1,15,S,E,169,5008,0.0326443886420707,65.6,430
+cook_islands,NaN,15,54,NaN,parliamentary democracy,16700,NaN,13.1,NaN,99.9,97.6,55.9,NaN,-32.3,1.06,76.2,2.16,NaN,37.2,21,159,S,W,120,0,1.0,64.6,NaN
+coral_sea_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,152,S,E,3095,0,1.0,0,NaN
+costa_rica,97.8,15,66,100,presidential republic,16900,15.1,8.1,21.7,97.8,94.5,25.7,NaN,0.8,1.01,78.9,1.89,45.4,31.7,10,84,N,W,1290,661,0.6611993849308048,51.5,746
+cote_d'_ivoire,43.1,10,26.5,64.3,presidential republic,3900,15.9,9.4,46.3,81.9,22.5,10.3,12.8,1.3,1.01,60.1,3.83,83.8,19.9,8,5,N,W,515,3458,0.129624968537629,32.7,250
+croatia,99.3,15,72.7,100,parliamentary republic,24700,24.7,12.4,19.5,99.6,97,24.4,NaN,-1.4,0.93,76.3,1.41,50.9,43.3,45,15,N,E,5835,2237,0.7228691774033696,34.4,331
+cuba,99.8,14,38.8,100,communist state,12300,11.4,2.6,NaN,94.9,93.2,24.6,NaN,-4.5,0.99,78.9,1.71,43.3,41.8,21,80,N,W,3735,28.5,0.9924272618573137,27.3,108
+curacao,NaN,18,93.9,100,parliamentary democracy,15000,NaN,13,NaN,NaN,NaN,NaN,NaN,-1.3,0.92,78.6,2.03,52.4,36.3,12,69,N,W,364,0,1.0,0,NaN
+cyprus,99.1,15,75.9,100,"Republic of Cyprus - presidential republic; ""Turkish Republic of Northern Cyprus"" (self-declared) - parliamentary republic with enhanced presidency
+note: a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot ""President"" Rauf DENKTAS declared independence and the formation of the ""TRNC,” which is recognized only by Turkey",37200,13.7,11.1,NaN,100,100,21.8,NaN,8.3,1.04,79,1.47,42.3,37.2,35,33,N,E,648,156,0.8059701492537313,18.8,91
+czechia,99,17,76.5,100,parliamentary republic,35500,26.9,2.9,9.7,100,99.1,26,NaN,2.3,0.97,78.9,1.46,49.5,42.5,49,15,N,E,0,2143,0.0,34.4,433
+denmark,NaN,19,97,100,parliamentary constitutional monarchy,50100,28.8,5.7,13.4,100,99.6,19.7,NaN,4.3,0.99,81,1.78,56,41.9,56,10,N,E,7314,140,0.9812181379125302,12.9,34
+dhekelia,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,33,N,E,27.5,108,0.2029520295202952,NaN,NaN
+djibouti,NaN,6,13.1,51.8,presidential republic,3600,22.3,40,23,90,47.4,13.5,29.9,5.5,0.84,64,2.27,56.5,24.2,11,43,N,E,314,528,0.37292161520190026,0.2,430
+dominica,NaN,NaN,67,100,parliamentary republic,11000,10.8,23,29,NaN,81.1,27.9,NaN,-5.4,1.02,77.4,2.03,NaN,34,15,61,N,W,148,0,1.0,59.2,NaN
+dominican_republic,93.8,14,61.3,100,presidential republic,17000,21.6,5.1,30.5,84.7,84,27.6,4,-2.6,1.02,71.3,2.28,57.8,27.3,19,70,N,W,1288,376,0.7740384615384616,40.8,424
+ecuador,94.4,16,54.1,99.9,presidential republic,11500,25.9,4.6,21.5,86.9,84.7,19.9,5.1,0,0.99,77.1,2.15,55.6,28.1,2,77,S,W,2237,2237,0.5,38.9,1117
+egypt,80.8,13,44.3,100,presidential republic,12700,9,12.2,27.8,99.4,94.7,32,7,-0.4,1.04,73.2,3.41,61.8,23.9,27,30,N,E,2450,2612,0.48399841959699724,0.1,321
+el_salvador,88.1,12,29,98.6,presidential republic,8000,14.9,7,32.7,93.8,75,24.6,5,-7.8,0.92,75.1,1.84,56.8,27.6,13,88,N,W,307,590,0.34225195094760313,13.6,442
+equatorial_guinea,95.3,NaN,23.8,67.9,presidential republic,37400,6.1,8.6,44,47.9,74.5,8,5.6,0,1,65,4.29,67.5,19.9,2,10,N,E,296,528,0.3592233009708738,57.5,577
+eritrea,73.8,5,1.2,46.7,presidential republic,1600,5.5,5.8,50,57.8,15.7,5,39.4,-13.1,0.97,65.6,3.9,85,19.9,15,39,N,E,2234,1840,0.5483554246440845,15.1,853
+estonia,99.8,16,87.2,100,parliamentary republic,31700,27,5.8,21.1,99.6,97.2,21.2,NaN,-3.1,0.88,77,1.6,53.7,43,59,26,N,E,3794,657,0.8523927207369131,52.1,61
+eswatini,87.5,11,28.6,65.8,absolute monarchy,10100,25.4,28,63,74.1,57.5,16.5,5.8,-6.9,0.9,57.2,2.63,68.8,23.2,26,31,S,E,0,546,0.0,31.7,305
+ethiopia,49.1,8,15.4,42.9,federal parliamentary republic,2200,32.1,17.5,29.6,57.3,28,4.5,23.6,-0.2,0.99,63,4.91,82.1,18,8,38,N,E,0,5925,0.0,12.2,1330
+falkland_islands_islas_malvinas,NaN,NaN,98.3,NaN,parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK,70800,NaN,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,77.9,NaN,NaN,NaN,51,59,S,W,1288,0,1.0,0,NaN
+faroe_islands,NaN,NaN,95.1,100,parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark,40000,25.7,2.2,10,NaN,NaN,NaN,NaN,0,1.08,80.6,2.34,NaN,37.6,62,7,N,W,1117,0,1.0,0.1,NaN
+fiji,NaN,NaN,46.5,98.6,parliamentary republic,9800,12.7,4.5,31,95.7,91.1,30.2,NaN,-6.4,1.03,73.2,2.37,52.8,29.2,18,175,S,E,1129,0,1.0,55.7,NaN
+finland,NaN,19,87.7,100,parliamentary republic,44500,23.3,8.5,NaN,100,97.6,22.2,NaN,2.8,0.97,81.1,1.75,57.9,42.6,64,26,N,E,1250,2563,0.3278258589037503,72.9,164
+france,NaN,15,85.6,100,semi-presidential republic,44100,22.9,9.4,14.2,100,98.7,21.6,NaN,1.1,0.96,82,2.06,59.2,41.5,46,2,N,E;,4853,2751,0.6382167280378748,29.2,375
+french_polynesia,NaN,NaN,68.4,100,parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France,17000,NaN,21.8,19.7,100,98.5,NaN,NaN,-0.8,1.05,77.5,1.87,45.3,32.4,15,140,S,W,2525,0,1.0,43.7,NaN
+gabon,83.2,NaN,48.1,91.4,presidential republic,18100,25.6,28,34.3,93.2,41.9,15,6.4,7,1.08,68,3.52,67.4,20.5,1,11,S,E,885,3261,0.2134587554269175,81,377
+gambia_the,55.5,9,18.5,47.8,presidential republic,2600,6.8,NaN,48.4,90.2,58.9,10.3,16.5,-1.8,0.98,65.4,3.42,92.3,21.3,13,16,N,W,80,749,0.09650180940892641,43.9,34
+gaza_strip,96.9,13,57.4,98,NaN,NaN,NaN,27.9,30,58.4,92.3,NaN,1.4,-5,1.02,74.4,3.97,75.8,17.4,31,34,N,E,40,72,0.35714285714285715,NaN,NaN
+georgia,99.8,15,50,100,semi-presidential republic,10700,23,11.8,9.2,100,86.3,21.7,1.1,-1.1,0.92,76.6,1.76,50,38.3,42,43,N,E,310,1814,0.14595103578154425,39.4,1432
+germany,NaN,17,89.6,100,federal parliamentary republic,50800,28,3.8,16.7,100,99.2,22.3,NaN,1.5,0.96,80.9,1.46,52.1,47.4,51,9,N,E,2389,3714,0.39144682942815007,31.8,263
+ghana,76.6,12,34.7,79.3,presidential republic,4700,9,11.9,24.2,88.7,14.9,10.9,11.2,-1.7,0.97,67.4,3.96,73,21.2,8,2,N,W,539,2420,0.1821561338289963,21.2,190
+gibraltar,NaN,NaN,94.4,NaN,parliamentary democracy (Parliament); self-governing overseas territory of the UK,61700,NaN,1,NaN,NaN,NaN,NaN,NaN,-3.3,1.01,79.7,1.9,NaN,35,36,5,N,W,12,1.2,0.9090909090909092,0,NaN
+greece,97.7,18,69.1,100,parliamentary republic,27800,10.9,21.5,36,100,99,24.9,NaN,2.3,0.95,80.8,1.44,52.7,44.9,39,22,N,E,13676,1110,0.9249289868794806,30.5,498
+greenland,100,NaN,68.5,100,parliamentary democracy (Parliament of Greenland or Inatsisartut),41800,NaN,9.1,16.2,100,100,NaN,NaN,-6,1.09,72.9,1.97,NaN,34,72,40,N,W,44087,0,1.0,0,1792
+grenada,98.6,17,55.9,92.3,parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm,15100,11.7,24,38,96.6,98,21.3,NaN,-2.8,1.03,74.8,2,50.7,32.1,12,61,N,W,121,0,1.0,50,NaN
+guam,NaN,NaN,77,100,presidential democracy; a self-governing unincorporated territory of the US,35600,NaN,4.5,23,99.5,89.8,NaN,NaN,-11,1.06,76.4,2.92,52.3,29.1,13,144,N,E,125.5,0,1.0,47.9,NaN
+guatemala,81.5,11,34.5,91.8,presidential republic,8200,13.6,2.3,59.3,92.8,63.9,21.2,12.4,-2.4,0.99,71.8,2.87,68.7,22.5,15,90,N,W,400,1667,0.1935171746492501,33.6,759
+guernsey,NaN,NaN,83.3,100,parliamentary democracy (States of Deliberation),52500,NaN,1.2,NaN,NaN,NaN,NaN,NaN,2.1,0.99,82.7,1.57,47.1,44,49,2,N,W,50,0,1.0,NaN,NaN
+guinea,30.4,9,9.8,33.5,presidential republic,2200,5.1,2.7,47,76.8,20.1,7.7,18.3,0,1,62.1,4.98,84.2,19,11,10,N,W,320,4046,0.07329363261566652,26.5,472
+guinea_bissau,59.9,NaN,3.8,14.7,semi-presidential republic,1900,8.6,NaN,67,79.3,20.8,9.5,17,-4,0.95,61.4,4.81,80.4,17.8,12,15,N,W,350,762,0.3147482014388489,55.2,70
+guyana,88.5,11,35.7,84.2,parliamentary republic,8100,10.5,11.1,35,98.3,83.7,20.2,8.2,-3.2,1.02,68.9,1.97,53.5,26.7,5,59,N,W,459,2933,0.1353183962264151,77.4,207
+haiti,60.7,NaN,12.2,38.7,semi-presidential republic,1800,24.9,40.6,58.5,57.7,27.6,22.7,9.5,-2,0.98,64.6,2.66,62.3,23.3,19,72,N,W,1771,376,0.8248719142990218,3.6,470
+heard_island_and_mcdonald_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,53,72,S,E,101.9,0,1.0,0,NaN
+holy_see_vatican_city,NaN,NaN,NaN,NaN,"ecclesiastical elective monarchy; self-described as an ""absolute monarchy""",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,41,12,N,E,0,3.4,0.0,0,NaN
+honduras,89,10,30,87.6,presidential republic,5600,22.1,5.6,29.6,91.2,82.6,21.4,7.1,-1.1,1.01,71.3,2.61,59.8,23.3,15,86,N,W,823,1575,0.3432026688907423,45.3,684
+hong_kong,NaN,16,85,100,presidential limited democracy; a special administrative region of the People's Republic of China,61500,26.6,3.1,19.9,NaN,NaN,NaN,NaN,1.7,0.87,83.1,1.2,35.9,44.8,22,114,N,E,733,33,0.9569190600522193,0,NaN
+hungary,99.1,15,79.3,100,parliamentary republic,29600,25.7,4.2,14.9,100,98,26.4,NaN,1.3,0.91,76.3,1.45,46.9,42.7,47,20,N,E,0,2106,0.0,22.5,143
+iceland,NaN,19,98.2,100,unitary parliamentary republic,52200,25.8,2.8,NaN,100,98.8,21.9,NaN,3.7,1,83.1,1.99,51.6,36.7,65,18,N,W,4970,0,1.0,0.3,557
+india,71.2,12,29.5,84.5,federal parliamentary republic,7200,28.8,8.5,21.9,94.1,39.6,3.9,36.3,0,1.08,69.1,2.4,52.2,28.1,20,77,N,E,7000,13888,0.3351206434316354,23.1,160
+indian_ocean,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,20,80,S,E,66526,NaN,NaN,NaN,NaN
+indonesia,95.4,13,25.4,97.6,presidential republic,12400,31.7,5.4,10.9,87.4,60.8,6.9,19.9,-1.1,1,73.2,2.08,49.2,30.5,5,120,S,E,54716,2958,0.9487117245205812,51.7,367
+iran,85.5,15,44.1,100,theocratic republic,20100,37.9,11.8,18.7,96.2,90,25.8,4.1,-0.2,1.03,74.2,1.96,40.2,30.8,32,53,N,E,2440,5894,0.2927765778737701,6.8,1305
+iraq,79.7,NaN,21.2,100,federal parliamentary republic,16700,19,16,23,86.6,85.6,30.4,7.2,-1.1,1.02,74.9,3.94,77.7,20.2,33,44,N,E,58,3809,0.014998707008016551,1.9,312
+ireland,NaN,19,82.2,100,parliamentary republic,73200,33.1,6.7,8.2,97.9,90.5,25.3,NaN,4,1,81,1.96,53.8,37.1,53,8,N,W,1448,490,0.7471620227038184,10.9,118
+isle_of_man,NaN,NaN,NaN,100,parliamentary democracy (Tynwald); a crown dependency of the UK,84600,NaN,1.1,NaN,NaN,NaN,NaN,NaN,5.8,1,81.4,1.92,NaN,44.4,54,4,N,W,160,0,1.0,6.1,NaN
+israel,97.8,16,79.8,100,parliamentary democracy,36400,23.6,4.2,22,100,100,26.1,NaN,2.1,1.01,82.7,2.63,64.2,30.1,31,34,N,E,273,1065,0.2040358744394619,7.1,508
+italy,99.2,16,61.3,100,parliamentary republic,38200,20.3,11.3,29.9,100,99.5,19.9,NaN,3.6,0.93,82.4,1.45,56.5,45.8,42,12,N,E,7600,1836.4,0.8053918867364673,31.4,538
+jamaica,88.7,NaN,45,98.2,parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm,9200,18.3,12.2,17.1,93.8,81.8,24.7,2.2,-9.4,0.98,74.5,2.09,48.7,28.6,18,77,N,W,1022,0,1.0,31.1,18
+jan_mayen,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,71,8,N,W,124.1,0,1.0,0,NaN
+japan,NaN,15,92,100,parliamentary constitutional monarchy,42900,28,2.9,16.1,100,100,4.3,3.4,0,0.94,85.5,1.42,64,47.7,36,138,N,E,29751,0,1.0,68.5,438
+jersey,NaN,NaN,59.6,100,parliamentary democracy (Assembly of the States of Jersey); a crown dependency of the UK,56600,NaN,4,NaN,NaN,NaN,NaN,NaN,2.9,0.97,82,1.66,47.1,37.7,49,2,N,W,70,0,1.0,0,NaN
+jordan,95.4,13,62.3,100,parliamentary constitutional monarchy,9200,9.1,18.3,14.2,96.9,98.6,35.5,3,0,1.12,75,3.14,66.1,22.8,31,36,N,E,26,1744,0.014689265536723164,1.1,812
+kazakhstan,99.8,15,76.8,100,presidential republic,26300,23.7,5,2.6,92.9,97.5,21,2,0.4,0.91,71.4,2.22,50.4,30.9,48,68,N,E,0,13364,0.0,1.2,387
+kenya,78,11,26,56,presidential republic,3500,10.4,40,36.1,63.2,30.1,7.1,11.2,-0.2,1,64.6,2.81,78.3,20,1,38,N,E,536,3457,0.13423491109441524,6.1,762
+kiribati,NaN,12,13.7,84.9,presidential republic,2000,NaN,30.6,NaN,66.9,39.7,46,14.9,-2.8,0.95,66.9,2.34,63,25,1,173,N,E,1143,0,1.0,15,2
+korea_north,100,11,NaN,26,"dictatorship, single-party state; official state ideology of ""Juche"" or ""national self-reliance",1700,NaN,25.6,NaN,99.7,81.9,6.8,9.3,0,0.94,71,1.94,44.5,34.2,40,127,N,E,2495,1607,0.6082398829839103,46,600
+korea_south,NaN,17,89.9,100,presidential republic,39500,36.6,3.7,14.4,97.8,100,4.7,0.7,2.4,1,82.5,1.27,36.7,42.3,37,127,N,E,2413,237,0.9105660377358491,63.9,282
+kosovo,NaN,NaN,NaN,100,parliamentary republic,10900,17.3,30.5,17.6,NaN,NaN,NaN,NaN,-2.6,1.06,NaN,NaN,NaN,29.6,42,21,N,E,0,714,0.0,41.7,450
+kuwait,96,14,78.4,100,constitutional monarchy (emirate),65800,35.4,1.1,NaN,99,100,37.9,3,-2.8,1.4,78.3,2.35,29.8,29.4,29,45,N,E,499,475,0.5123203285420944,0.4,108
+kyrgyzstan,99.5,13,34.5,100,parliamentary republic,3700,27.3,7.1,32.1,90,93.3,16.6,2.8,-5.1,0.96,71.2,2.59,54.7,26.8,41,75,N,E,0,4573,0.0,5.1,2988
+laos,84.7,11,18.2,87.1,communist state,7400,22.7,0.7,22,75.7,70.9,5.3,26.9,-1,0.99,65,2.65,60.2,23.4,18,105,N,E,0,5274,0.0,67.9,710
+latvia,99.9,16,79.9,100,parliamentary republic,27700,20.7,8.7,25.5,99.3,87.8,23.6,NaN,-6,0.86,74.9,1.52,52.5,43.9,57,25,N,E,498,1370,0.26659528907922914,54.1,87
+lebanon,93.9,11,76.1,100,parliamentary republic,19600,-0.7,9.7,28.6,99,80.7,32,NaN,-40.3,1,77.9,1.72,47.3,31.3,33,35,N,E,225,484,0.31734837799717913,13.4,1250
+lesotho,79.4,11,27.4,29.7,parliamentary constitutional monarchy,3300,20.3,28.1,57,81.8,30.3,16.6,10.5,-6.6,0.98,53,2.59,66.9,24.4,29,28,S,E,0,1106,0.0,1.5,2161
+liberia,47.6,NaN,7.3,19.8,presidential republic,1300,-21.9,2.8,54.1,75.6,16.9,9.9,15.3,-4.7,1,63.8,5,83.2,17.8,6,9,N,W,579,1667,0.25779162956366874,44.6,243
+libya,91,NaN,20.3,98.5,in transition,9600,5,30,NaN,54.4,96.6,32.5,NaN,0.9,1.07,76.9,2.03,49.1,29.4,25,17,N,E,1770,4339,0.28973645441152396,0.1,423
+liechtenstein,NaN,15,98.1,100,constitutional monarchy,139100,NaN,2.4,NaN,NaN,NaN,NaN,NaN,5,0.99,82,1.69,NaN,43.4,47,9,N,E,0,75,0.0,43.1,NaN
+lithuania,99.8,16,74.4,100,semi-presidential republic,32400,18,7.1,22.2,96.6,92.4,26.3,NaN,-6.1,0.86,75.2,1.6,49.9,44,56,24,N,E,90,1549,0.05491153142159853,34.6,110
+luxembourg,NaN,14,97.5,100,constitutional monarchy,105100,22.3,5.8,NaN,100,97.6,22.6,NaN,14.8,1.01,82.4,1.62,43.6,39.3,49,6,N,E,0,327,0.0,33.5,325
+macau,96.5,16,77.6,100,executive-led limited democracy; a special administrative region of the People's Republic of China,110000,NaN,2,NaN,NaN,NaN,NaN,NaN,3.3,0.9,84.6,0.95,26.6,39.8,22,113,N,E,41,3,0.9318181818181818,0,NaN
+madagascar,64.7,10,4.7,22.9,semi-presidential republic,1600,14.8,1.8,70.7,51.5,12,5.3,32.9,0,1,66.6,3.95,80.1,19.9,20,47,S,E,4828,0,1.0,21.5,615
+malawi,62.1,11,9.6,11,presidential republic,1200,3.9,20.4,50.7,90.2,41,5.8,11.8,0,0.98,62.2,5.43,91,16.6,13,34,S,E,0,2857,0.0,34,779
+malaysia,94.6,13,78.8,100,"federal parliamentary constitutional monarchy
+note: all Peninsular Malaysian states have hereditary rulers (commonly referred to as sultans) except Melaka (Malacca) and Pulau Pinang (Penang); those two states along with Sabah and Sarawak in East Malaysia have governors appointed by government; powers of state governments are limited by the federal constitution; under terms of federation, Sabah and Sarawak retain certain constitutional prerogatives (e.g., right to maintain their own immigration controls)",29100,28.5,3.4,3.8,98.2,96,15.6,13.7,-0.3,1.03,75.4,2.48,44.6,28.7,2,112,N,E,4675,2742,0.6303087501685317,62,419
+maldives,99.3,NaN,59.1,100,presidential republic,19200,0.5,2.9,15,98.6,97.9,8.6,17.7,-12.7,1.18,76,1.72,38,28.6,3,73,N,E,644,0,1.0,3,2
+mali,33.1,7,11.1,35.1,semi-presidential republic,2200,16.5,7.9,36.1,77,24.7,8.6,25,-3.9,0.95,60.8,5.9,101.9,15.8,17,4,N,W,0,7908,0.0,10.2,343
+malta,94.4,16,77.3,100,parliamentary republic,41900,33.5,4.6,16.3,100,100,28.9,NaN,7.8,1.01,82.7,1.48,48.8,41.8,35,14,N,E,196.8,0,1.0,0.9,NaN
+marshall_islands,98.3,NaN,29.8,93.1,mixed presidential-parliamentary system in free association with the US,3600,NaN,36,NaN,94.6,76.9,52.9,11.9,-4.6,1.03,73.6,2.98,NaN,23.1,9,168,N,E,370.4,0,1.0,49.3,2
+mauritania,52.1,8,18,41.7,presidential republic,4500,24.2,10.2,31,57.9,40,12.7,24.9,-0.8,0.93,63.8,3.79,76.5,20.7,20,12,N,W,754,5002,0.13099374565670605,0.2,276
+mauritius,93.2,15,53.2,100,parliamentary republic,22300,16.9,7.1,8,99.9,93.1,10.8,NaN,0,0.97,76,1.74,41.6,35.7,20,57,S,E,177,0,1.0,17.3,NaN
+mexico,94.9,14,59.5,100,federal presidential republic,19900,21.4,3.4,46.2,96.1,85.2,28.9,4.2,-1.8,0.96,76.3,2.22,51.4,28.6,23,102,N,W,9330,4389,0.6800787229389897,33.3,1111
+micronesia_federated_states_of,NaN,NaN,31.5,75.4,federal republic in free association with the US,3400,NaN,16.2,26.7,89,57.1,45.8,NaN,-20.9,0.97,73.4,2.37,62.4,25.5,6,158,N,E,6112,0,1.0,74.5,NaN
+moldova,99.4,12,71,100,parliamentary republic,6700,13.5,4.1,9.6,88.4,76.4,18.9,2.2,-9.3,0.95,71.3,1.57,34.5,37,47,29,N,E,0,1885,0.0,11.9,139
+monaco,NaN,NaN,95.2,100,constitutional monarchy,115700,NaN,2,NaN,100,100,NaN,NaN,6.5,0.94,89.4,1.54,NaN,53.8,43,7,N,E,4.1,6,0.4059405940594059,0,NaN
+mongolia,98.4,15,22.3,81.8,semi-presidential republic,13000,26.9,8,29.6,64.4,59.7,20.6,0.9,-0.8,0.96,70.2,2.04,48.5,28.8,46,105,N,E,0,8082,0.0,7,1528
+montenegro,98.7,15,69.9,100,parliamentary republic,17800,13.2,16.1,8.6,99.7,95.9,23.3,1,-4.9,0.97,NaN,NaN,47.8,38.9,42,19,N,E,293.5,680,0.30148947098099643,40.4,1086
+montserrat,NaN,NaN,54.6,NaN,parliamentary democracy (Legislative Council); self-governing overseas territory of the UK,34000,NaN,5.6,NaN,99,82.9,NaN,NaN,0,1,74.8,1.34,NaN,33.8,16,62,N,W,40,0,1.0,25,NaN
+morocco,68.5,13,58.3,100,parliamentary constitutional monarchy,8600,30.1,10.2,15,85.4,76.7,26.1,2.9,-3.1,0.96,77.3,2.09,51.6,29.7,32,5,N,W,1835,2362.5,0.4371649791542585,11.5,909
+mozambique,56,10,17.5,24.2,presidential republic,1300,16.8,24.5,46.1,51.1,20.5,7.2,15.6,-1.8,0.96,54.1,5.02,93.5,17.3,18,35,S,E,2470,4783,0.3405487384530539,43.7,345
+namibia,81.9,NaN,31,51.8,presidential republic,11200,16.7,34,28.7,91,34.4,17.2,13.2,0,0.96,64.4,3.21,68.1,21.4,22,17,S,E,1572,4220,0.27140883977900554,8.8,1141
+nauru,NaN,9,53.5,NaN,parliamentary republic,12300,NaN,23,NaN,96.5,65.6,61,NaN,-12.3,0.88,67.8,2.76,NaN,26.7,0,166,S,E,30,0,1.0,0,NaN
+navassa_island,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,75,N,W,8,0,1.0,0,NaN
+nepal,63.9,12,19.7,90.7,federal parliamentary republic,2700,45.4,3,25.2,91.6,45.8,4.1,27.2,-2.5,0.96,71.3,2.07,61.4,24.5,28,84,N,E,0,3159,0.0,25.4,2565
+netherlands,NaN,18,90.4,100,parliamentary constitutional monarchy; part of the Kingdom of the Netherlands,53900,31.2,4.9,8.8,100,97.7,20.4,NaN,1.9,0.98,81.5,1.78,53.1,42.7,52,5,N,E,451,1053,0.29986702127659576,10.8,30
+new_caledonia,96.9,NaN,74,100,parliamentary democracy (Territorial Congress); an overseas collectivity of France,31100,NaN,14.7,17,98.5,100,NaN,NaN,3.9,1,78,1.92,48.3,32.3,21,165,S,E,2254,0,1.0,45.9,NaN
+new_zealand,NaN,19,88.5,100,parliamentary democracy (New Zealand Parliament) under a constitutional monarchy; a Commonwealth realm,39000,21,4.7,NaN,100,NaN,30.8,NaN,2.2,0.99,81.4,2.01,52.9,38.1,41,174,S,E,15134,0,1.0,31.4,388
+nicaragua,82.8,NaN,24.6,81.8,presidential republic,5900,24,6.4,29.6,87,67.9,23.7,4.6,-2.6,0.95,73.7,1.87,54.1,26.2,13,85,N,W,910,1253,0.42071197411003236,25.3,298
+niger,19.1,6,4.3,16.2,semi-presidential republic,1200,22.4,0.3,45.4,58.2,10.9,5.5,31.4,-0.5,1.01,56.3,6.35,111.6,15.5,16,8,N,E,0,5834,0.0,1,474
+nigeria,59.6,9,25.7,59.3,federal presidential republic,5900,18.2,16.5,70,68.5,29,8.9,31.5,-0.2,1.02,59.3,4.85,88.2,18.3,10,8,N,E,853,4477,0.1600375234521576,9.5,380
+niue,NaN,NaN,91.6,NaN,self-governing parliamentary democracy (Fouo Ekepule) in free association with New Zealand,5800,NaN,12,NaN,98.5,100,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,169,S,W,64,0,1.0,71.2,NaN
+norfolk_island,NaN,NaN,34.6,NaN,"non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,29,167,S,E,32,0,1.0,11.5,NaN
+north_macedonia,97.8,13,70.4,100,parliamentary republic,14900,30.3,22.4,21.5,99.4,90.9,22.4,1.3,0.7,0.99,75.9,1.49,41.6,38.2,41,22,N,E,0,838,0.0,39.8,741
+northern_mariana_islands,NaN,NaN,30.6,100,presidential democracy; a commonwealth in political union with the US,24500,NaN,11.2,NaN,97.5,79.7,NaN,NaN,-15.2,1.13,75.6,2.76,NaN,33.4,15,145,N,E,1482,0,1.0,65.5,NaN
+norway,NaN,18,97.3,100,parliamentary constitutional monarchy,72100,34.3,4.2,NaN,100,98.1,23.1,NaN,5.3,1.02,82,1.85,52.1,39.3,62,10,N,E,25148,2566,0.9074114166125424,27.8,460
+oman,96.1,15,69.8,99,absolute monarchy,46000,16.1,NaN,NaN,93.4,96.7,27,9.7,-0.4,1.18,75.9,2.8,32.4,25.8,21,57,N,E,2092,1561,0.5726799890500958,0,310
+pacific_ocean,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,160,N,W,135663,NaN,NaN,NaN,NaN
+pakistan,57.9,8,15.5,74,federal parliamentary republic,5400,12,6,29.5,91.4,63.5,8.6,23.1,-1.2,1.05,68.4,2.55,65.3,24.1,30,70,N,E,1046,7257,0.12597856196555463,2.1,900
+palau,96.6,17,36,99.3,presidential republic in free association with the US,14700,48.7,1.7,24.9,95.3,100,55.3,NaN,0.8,1.08,73.6,1.7,NaN,33.6,7,134,N,E,1519,0,1.0,87.6,NaN
+panama,95,13,54,93.4,presidential republic,25400,38.9,6,23,94.7,75,22.7,NaN,-0.2,1.01,78.9,2.28,54.8,29.5,9,80,N,W,2490,687,0.7837582625118036,43.6,360
+papua_new_guinea,64.2,NaN,9.6,22.9,parliamentary democracy (National Parliament) under a constitutional monarchy; a Commonwealth realm,3700,36.8,2.5,37,40,18.9,21.3,27.8,0,1.04,67.5,2.97,67.4,23.4,6,147,S,E,5152,824,0.8621151271753681,63.1,667
+paracel_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16,112,N,E,518,0,1.0,0,NaN
+paraguay,94.7,12,51.3,98.4,presidential republic,12800,18.6,5.7,22.2,98,88.6,20.3,1.3,-0.1,1.01,77.6,1.9,56.6,28.7,23,58,S,W,0,4655,0.0,43.8,178
+peru,94.2,15,45.5,95,presidential republic,13500,19.8,6.9,22.7,86.7,76.2,19.7,3.2,-2.1,0.96,74.2,2.1,53.2,28.4,10,76,S,W,2414,7062,0.2547488391726467,53,1555
+philippines,96.3,13,55.5,88,presidential republic,8400,24.3,5.7,21.6,91.8,73.9,6.4,21.5,-1.9,1.01,69.6,2.99,58.2,23.7,13,122,N,E,36289,0,1.0,25.9,442
+pitcairn_islands,NaN,NaN,100,NaN,parliamentary democracy (Island Council); overseas territory of the UK,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,130,S,W,51,0,1.0,74.5,NaN
+poland,99.8,16,73.3,100,parliamentary republic,29600,20,4.9,17.6,98.3,97.2,23.1,NaN,-0.4,0.94,77.9,1.36,43.9,41.1,52,20,N,E,440,3071,0.12532042153232698,30.6,173
+portugal,95.7,16,70.4,100,semi-presidential republic,30500,16.8,8.9,19,100,99.7,20.8,NaN,-0.2,0.9,80.9,1.39,53.4,43.7,39,8,N,W,1793,1224,0.5942989724892277,37.8,372
+puerto_rico,93.3,16,80.3,100,"republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government
+Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950",39400,NaN,10.8,NaN,93.6,99.3,NaN,NaN,-16,0.9,81,1.21,49.6,42.2,18,66,N,W,501,0,1.0,63.2,261
+qatar,97.3,12,94.3,100,absolute monarchy,124100,50.2,8.9,NaN,100,98,35.1,NaN,11.5,3.41,79,1.89,17.5,33.4,25,51,N,E,563,87,0.8661538461538462,0,28
+romania,98.8,14,59.5,100,semi-presidential republic,24600,21.1,4.9,22.4,100,79.1,22.5,NaN,-0.2,0.95,75.6,1.36,48,41.6,46,25,N,E,225,2844,0.07331378299120235,28.7,414
+russia,99.7,16,76.4,100,semi-presidential federation,27900,26.5,5.2,13.3,96.9,72.2,23.1,NaN,1.7,0.86,71.3,1.61,43.5,39.8,60,100,N,E,37653,22408,0.6269126388172025,49.4,600
+rwanda,70.5,11,29.8,43,presidential republic,2100,12.5,2.7,39.1,76.1,61.6,5.8,9.6,-0.5,0.96,64.5,3.75,77.3,19.2,2,30,S,E,0,930,0.0,18,1598
+saint_barthelemy,NaN,NaN,NaN,NaN,parliamentary democracy (Territorial Council); overseas collectivity of France,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-4.2,1.13,NaN,NaN,NaN,44.7,17,62,N,W,NaN,0,NaN,NaN,NaN
+saint_helena_ascension_and_tristan_da_cunha,NaN,NaN,23.1,NaN,parliamentary democracy (Legislative Council); limited self-governing overseas territory of the UK,7800,NaN,14,NaN,NaN,NaN,NaN,NaN,0,1.01,79.8,1.59,NaN,42.4,NaN,NaN,NaN,NaN,NaN,0,NaN,5.1,NaN
+saint_kitts_and_nevis,NaN,14,75.7,100,federal parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm,28200,19.9,4.5,NaN,98.3,87.3,22.9,NaN,1.2,1,76.2,1.77,NaN,35.5,17,62,N,W,135,0,1.0,42.3,NaN
+saint_lucia,NaN,NaN,52.4,97.8,parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm,14400,19.4,20,NaN,96.3,90.5,19.7,2.8,-2.2,0.95,78.1,1.74,41.1,35.5,13,60,N,W,158,0,1.0,77,NaN
+saint_martin,NaN,NaN,3.5,72,parliamentary democracy (Territorial Council); overseas collectivity of France,19300,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-5.6,0.93,NaN,NaN,NaN,32.8,18,63,N,W,58.9,16,0.7863818424566087,NaN,NaN
+saint_pierre_and_miquelon,NaN,NaN,79.5,NaN,parliamentary democracy (Territorial Council); overseas collectivity of France,46200,NaN,8.7,NaN,NaN,NaN,NaN,NaN,-8,0.95,80.7,1.57,NaN,47.2,46,56,N,W,120,0,1.0,12.5,NaN
+saint_vincent_and_the_grenadines,NaN,NaN,51.8,100,parliamentary democracy (House of Assembly) under a constitutional monarchy; a Commonwealth realm,11500,12.1,18.8,NaN,95.1,76.1,23.7,NaN,-8,1.04,75.8,1.78,46.8,34.2,13,61,N,W,84,0,1.0,68.7,NaN
+samoa,99,NaN,29.4,100,parliamentary republic,5700,NaN,5.2,NaN,99,91.5,47.3,3.2,-8.8,1.04,74.2,2.64,74.2,24.8,13,172,S,W,403,0,1.0,60.4,NaN
+san_marino,NaN,15,52.6,100,parliamentary republic,59000,NaN,8.1,NaN,NaN,NaN,NaN,NaN,7.2,0.94,83.4,1.51,NaN,44.7,43,12,N,E,0,37,0.0,0,NaN
+sao_tome_and_principe,74.9,12,25.8,68,semi-presidential republic,3200,18.7,12.2,66.2,97.1,34.7,12.4,8.8,-8.2,1,65.7,4.11,86.7,18.7,1,7,N,E,209,0,1.0,28.1,NaN
+saudi_arabia,94.7,17,73.8,99,absolute monarchy,54500,30.1,6,NaN,97,100,35.4,NaN,4.1,1.3,75.7,2.04,40.9,29.9,25,45,N,E,2640,4272,0.3819444444444444,0.5,665
+senegal,51.9,9,25.7,65,presidential republic,3500,21.2,48,46.7,78.5,47.6,8.8,14.4,-1.4,0.94,62.5,4.2,85.4,19,14,14,N,W,531,2684,0.16516329704510108,43.8,69
+serbia,98.8,15,67.1,100,parliamentary republic,15100,15.3,14.1,8.9,99.2,96.4,21.5,1.8,0,0.95,75.9,1.44,49.2,42.8,44,21,N,E,0,2322,0.0,31.6,442
+seychelles,91.8,16,56.5,100,presidential republic,29300,8.1,3,39.3,95.7,98.4,14,3.6,1,1.06,75.2,1.85,42.8,35.8,4,55,S,E,491,0,1.0,88.5,NaN
+sierra_leone,48.1,NaN,11.8,20,presidential republic,1600,10,15,70.2,62.6,13.3,8.7,18.2,-1.8,0.95,59,4.69,82.6,19.1,8,11,N,W,402,1093,0.2688963210702341,37.5,279
+singapore,97,16,81,100,parliamentary republic,94100,46.5,2.2,NaN,100,100,6.1,NaN,12.7,0.96,85.5,0.84,37.3,34.9,1,103,N,E,193,0,1.0,3.3,NaN
+sint_maarten,NaN,NaN,NaN,100,parliamentary democracy (Parliament of Sint Maarten) under a constitutional monarchy,66800,NaN,12,NaN,NaN,NaN,NaN,NaN,6.2,0.98,78.5,2.04,NaN,41.2,18,63,N,W,58.9,16,0.7863818424566087,NaN,NaN
+slovakia,NaN,15,80.5,100,parliamentary republic,33100,20.6,8.1,12.3,100,98.8,20.5,NaN,0.1,0.94,77.4,1.42,41.5,41,48,19,N,E,0,1611,0.0,40.2,458
+slovenia,99.7,17,75.5,100,parliamentary republic,34500,26.4,6.6,13.9,99.5,99.1,20.2,NaN,1,0.99,81.2,1.58,48.7,44.2,46,14,N,E,46.6,1211,0.03705470737913486,62.3,492
+solomon_islands,84.1,NaN,11,47.9,parliamentary democracy under a constitutional monarchy; a Commonwealth realm,2200,13.1,NaN,NaN,80.8,29.8,22.5,16.2,-1.7,1.04,75.8,3.09,75.4,22.8,8,159,S,E,5313,0,1.0,78.9,NaN
+somalia,NaN,NaN,1.9,17,federal parliamentary republic,NaN,NaN,NaN,NaN,31.7,23.6,8.3,23,-5.6,1.01,53.2,5.7,97.4,18.2,10,49,N,E,3025,2385,0.5591497227356746,10.6,410
+south_africa,94.4,14,54,84.2,parliamentary republic,13600,16.1,27.5,16.6,93.2,66.4,28.3,5.9,-0.9,0.98,64.1,2.26,52.5,27.4,29,24,S,E,2798,5244,0.34792340213877143,7.6,1034
+south_georgia_and_south_sandwich_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,54,37,S,W,NaN,0,NaN,0,NaN
+south_sudan,27,NaN,NaN,8.9,presidential republic,1600,3.6,NaN,66,58.7,6.7,6.6,29.1,-29.2,1.06,NaN,5.34,83.7,18.1,8,30,N,E,0,6018,0.0,0,NaN
+southern_ocean,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17968,NaN,NaN,NaN,NaN
+spain,98.3,18,80.6,100,parliamentary constitutional monarchy,38400,23,17.2,21.1,100,99.9,23.8,NaN,7.5,0.98,81.8,1.5,51,43.1,40,4,N,W,4964,1952.7,0.7176832882733095,36.8,660
+spratly_islands,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,8,111,N,E,926,0,1.0,0,NaN
+sri_lanka,91.9,14,32.1,95.6,presidential republic,12900,33.8,4.4,6.7,95.6,95.1,5.2,20.5,-1.3,0.95,77.1,2.05,51.2,33.1,7,81,N,E,1340,0,1.0,29.4,228
+sudan,75.9,8,28,45,presidential republic,4300,12.1,19.6,46.5,55.5,23.6,6.6,33.5,1.9,1.01,65.8,4.85,81.6,17.9,15,30,N,E,853,6819,0.11118352450469239,0,568
+suriname,95.6,NaN,45.4,87.2,presidential republic,14900,46.6,8.9,70,94.8,79.2,26.4,6.4,0.5,1.01,72.8,1.9,50.7,30.2,4,56,N,W,386,1907,0.16833842128216311,94.6,246
+svalbard,NaN,NaN,NaN,NaN,non-self-governing territory of Norway,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,78,20,N,E,3587,0,1.0,0,NaN
+sweden,NaN,19,91.5,100,parliamentary constitutional monarchy,51200,28.9,6.7,15,100,99.3,20.6,NaN,5.3,1,82.2,1.87,58.5,41.1,62,15,N,E,3218,2211,0.592742678209615,68.7,320
+switzerland,NaN,16,89.4,100,federal republic (formally a confederation),62100,33.8,3.2,6.6,100,99.9,19.5,NaN,4.6,0.97,82.7,1.56,48.8,42.5,47,8,N,E,0,1770,0.0,31.5,1350
+syria,86.4,9,31.9,92,presidential republic; highly authoritarian regime,2900,17,50,82.5,90.1,95.7,27.8,10.2,57,1.01,75.2,2.44,72.8,24.5,35,38,N,E,193,2343,0.07610410094637224,2.7,514
+taiwan,98.5,NaN,88,NaN,semi-presidential republic,50500,34.9,3.8,1.5,NaN,NaN,NaN,NaN,0.9,0.98,80.4,1.13,35.2,41.3,23,121,N,E,1566.3,0,1.0,NaN,1150
+tajikistan,99.8,11,20.5,100,presidential republic,3200,24.4,2.4,31.5,73.8,95,14.2,7.6,-1.1,0.99,68.4,2.59,62.5,24.8,39,71,N,E,0,4130,0.0,2.9,3186
+tanzania,77.9,8,13,33,presidential republic,3200,25,10.3,22.8,55.6,15.6,8.4,13.7,-0.5,1,63.1,4.71,93.4,17.9,6,35,S,E,1424,4161,0.2549686660698299,37.3,1018
+thailand,92.9,15,47.5,100,constitutional monarchy,17900,34.1,0.7,7.2,97.8,93,10,6.7,0,0.96,75.1,1.52,40,38.1,15,100,N,E,3219,5673,0.36201079622132254,37.2,287
+timor_leste,67.5,13,25.2,63.4,semi-presidential republic,6000,NaN,4.4,41.8,71.9,40.6,3.8,37.5,-3.9,1,68.7,4.67,90.3,19.1,8,125,S,E,706,253,0.7361835245046924,49.1,NaN
+togo,63.7,13,11.3,36,presidential republic,1700,16.1,6.9,55.1,63.1,11.6,8.4,16.1,0,0.98,65.8,4.32,81.2,19.9,8,1,N,E,56,1880,0.028925619834710745,4.9,236
+tokelau,NaN,NaN,60.2,NaN,parliamentary democratic dependency (General Fono); a territory of New Zealand,1000,NaN,NaN,NaN,100,90.5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,172,S,W,101,0,1.0,0,NaN
+tonga,99.4,NaN,40,97,constitutional monarchy,5900,NaN,1.1,22.5,99.6,91,48.2,1.9,-17.9,1.01,76.6,3.03,74.2,23.3,20,175,S,W,419,0,1.0,12.5,NaN
+trinidad_and_tobago,99,NaN,69.2,100,parliamentary republic,31300,26.4,4.9,20,95.1,91.5,18.6,4.9,-5.8,1.03,73.4,1.7,43.2,36.6,11,61,N,W,362,0,1.0,44,83
+tunisia,81.8,15,50.9,100,parliamentary republic,11900,12,15.5,15.5,97.7,91.6,26.9,2.8,-1.6,0.99,75.9,2.17,45.6,32,34,9,N,E,1148,1495,0.43435489973514946,6.6,246
+turkey,96.2,18,58.3,100,presidential republic,27000,25.5,10.9,21.9,100,94.9,32.1,2.3,-4.5,1.01,75.3,2,50.1,31.4,39,35,N,E,7200,2816,0.7188498402555911,14.9,1132
+turkmenistan,99.7,11,18,100,presidential republic; authoritarian,18200,23.9,11,0.2,71.1,99.1,18.6,3.2,-1.8,0.98,70.7,2.06,52.7,28.3,40,60,N,E,0,4158,0.0,8.8,230
+turks_and_caicos_islands,NaN,NaN,NaN,95.7,parliamentary democracy (House of Assembly); self-governing overseas territory of the UK,29100,NaN,10,NaN,NaN,NaN,NaN,NaN,9.3,1.02,80.1,1.7,NaN,33.8,21,71,N,W,389,0,1.0,36.2,NaN
+tuvalu,NaN,NaN,46,99.4,parliamentary democracy under a constitutional monarchy; a Commonwealth realm,3800,NaN,NaN,26.3,97.7,83.3,51.6,NaN,-6.6,0.98,67.2,2.93,NaN,26,8,178,S,E,24,0,1.0,33.3,2
+uganda,78.4,10,45.9,20,presidential republic,2400,20.6,9.4,21.4,79,19.1,5.3,10.4,-0.7,0.99,56.3,5.62,101.6,15.9,1,32,N,E,0,2729,0.0,14.5,NaN
+ukraine,99.8,15,52.5,100,semi-presidential republic,8800,18.9,9.2,3.8,96.2,95.9,24.1,NaN,4.6,0.86,72.4,1.55,44.8,40.8,49,32,N,E,2782,5618,0.3311904761904762,16.8,175
+united_arab_emirates,93.8,14,90.6,100,federation of monarchies,68600,28.5,1.6,19.5,99.6,97.6,31.7,NaN,6.3,2.64,78.7,1.73,17.4,37.2,24,54,N,E,1318,1066,0.5528523489932886,3.8,149
+united_kingdom,NaN,19,94.8,100,parliamentary constitutional monarchy; a Commonwealth realm,44300,13.6,4.4,15,100,99.2,27.8,NaN,2.5,0.99,80.9,1.88,55.5,40.5,54,2,N,W,12429,490,0.962071367752922,11.9,162
+united_states,NaN,16,76.2,100,constitutional federal republic,59800,18.9,4.4,15.1,99.2,100,36.2,0.5,3.8,0.97,80.1,1.87,51.2,38.2,38,97,N,W,19924,12048,0.623170273989741,33.3,760
+uruguay,98.6,NaN,66.4,100,presidential republic,22400,17.2,7.6,9.7,99.7,96.4,27.9,4,-0.9,0.94,77.6,1.79,55.9,35.1,33,56,S,W,660,1591,0.2932030208796091,10.2,109
+uzbekistan,100,12,46.8,100,presidential republic; highly authoritarian,6900,32.7,5,14,87.3,100,16.6,NaN,-2.1,0.99,74.3,1.75,47.7,29.1,41,64,N,E,0,6893,0.0,7.7,NaN
+vanuatu,85.2,NaN,24,57.8,parliamentary republic,2700,NaN,1.7,NaN,94.5,57.9,25.2,10.7,-1.4,1,74,2.97,68.7,22.3,16,167,S,E,2528,0,1.0,36.1,NaN
+venezuela,97.1,14,60,99.6,federal presidential republic,12500,12.1,27.1,19.7,93.1,94.4,25.6,2.9,-1.2,0.99,76.2,2.3,52.6,28.7,8,66,N,W,2800,5267,0.3470930953266394,52.1,450
+vietnam,94.5,NaN,52.7,99,communist state,6900,29,2.2,8,97.6,78,2.1,14.1,-0.3,1.01,73.9,1.79,42.5,30.9,16,107,N,E,3444,4616,0.4272952853598015,45,398
+virgin_islands,NaN,NaN,54.8,100,presidential democracy; a self-governing territory of the US,37000,NaN,10.4,28.9,100,96.4,NaN,NaN,-7.5,0.91,79.5,2.06,60.8,41.3,18,64,N,W,188,0,1.0,57.4,NaN
+wake_island,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,19,166,N,E,19.3,0,1.0,0,NaN
+wallis_and_futuna,NaN,NaN,22.1,NaN,parliamentary democracy (Territorial Assembly); overseas collectivity of France,3800,NaN,8.8,NaN,NaN,96,NaN,NaN,-4.6,1.03,80,1.72,NaN,32.8,13,176,S,W,129,0,1.0,41.9,NaN
+west_bank,96.9,13,57.4,100,NaN,4300,7.8,27.9,18,58.4,92.3,NaN,1.4,-4.4,1.04,75.4,3.2,75.8,21.4,32,35,N,E,0,478,0.0,1.5,NaN
+western_sahara,NaN,NaN,NaN,NaN,"legal status of territory and issue of sovereignty unresolved; territory contested by Morocco and Polisario Front (Popular Front for the Liberation of the Saguia el Hamra and Rio de Oro), which in February 1976 formally proclaimed a government-in-exile of the Sahrawi Arab Democratic Republic (SADR), near Tindouf, Algeria, led by President Mohamed ABDELAZIZ until his death in May 2016; current President Brahim GHALI elected in July 2016; territory partitioned between Morocco and Mauritania in April 1976 when Spain withdrew, with Morocco acquiring northern two-thirds; Mauritania, under pressure from Polisario guerrillas, abandoned all claims to its portion in August 1979; Morocco moved to occupy that sector shortly thereafter and has since asserted administrative control; the Polisario's government-in-exile was seated as an Organization of African Unity (OAU) member in 1984; Morocco between 1980 and 1987 built a fortified sand berm delineating the roughly 75% of Western Sahara west of the barrier that currently is controlled by Morocco; guerrilla activities continued sporadically until a UN-monitored cease-fire was implemented on 6 September 1991 (Security Council Resolution 690) by the United Nations Mission for the Referendum in Western Sahara (MINURSO)",2500,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5.4,0.99,63.8,3.79,45,21.5,24,13,N,W,1110,2049,0.3513770180436847,2.7,256
+yemen,70.1,9,24.6,47,in transition,2500,-1.9,27,54,54.9,53.3,17.1,39.9,0.1,1.02,66.2,3.48,76.8,19.8,15,48,N,E,1906,1601,0.5434844596521243,1,999
+zambia,63.4,NaN,25.5,33,presidential republic,4000,38.3,15,54.4,65.4,43.9,8.1,14.9,0,1,53,5.58,91.9,16.8,15,30,S,E,0,6043.15,0.0,66.3,1138
+zimbabwe,86.5,10,23.1,34,presidential republic,2300,23.3,11.3,72.3,76.9,36.8,15.5,8.5,-7.3,0.96,61.1,3.97,79.5,20.2,20,30,S,E,0,3229,0.0,39.5,961
+european_union,NaN,NaN,77,NaN,NaN,40900,22.7,8.6,9.8,NaN,NaN,NaN,NaN,2.4,0.96,80.7,1.62,NaN,43.2,NaN,NaN,NaN,NaN,65992.9,13271,0.832571952679593,NaN,NaN
